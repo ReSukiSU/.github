@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<img src="https://github.com/ReSukiSU.png" width="200" height="200" />
+<img src="https://github.com/ReSukiSU/.github/raw/main/assets/ReSukiSU_blue.svg" width="200" height="200" />
 
 # ReSukiSU
 
@@ -9,7 +9,7 @@
 
 [![Translation](https://hosted.weblate.org/widget/resukisu/svg-badge.svg)](https://hosted.weblate.org/engage/resukisu/)[![Pages](https://github.com/ReSukiSU/ReSukiSU.github.io/actions/workflows/main.yml/badge.svg)](https://resukisu.org)
 
-Make SukiSU Great Again!
+Make SukiSU great again!
 
 [Documentation](https://resukisu.org) | [Repository](https://github.com/ReSukiSU/ReSukiSU)
 
