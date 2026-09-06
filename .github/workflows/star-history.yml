@@ -19,3 +19,4 @@ jobs:
                 output-dir: 'profile/assets/star-history'
                 readme: 'profile/README.md'
                 token: ${{ secrets.GH_TOKEN }}
+                update-readme: false
