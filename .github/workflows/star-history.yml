@@ -18,3 +18,4 @@ jobs:
                 repos: 'ReSukiSU/ReSukiSU'
                 readme: 'profile/README.md'
                 token: ${{ secrets.GH_TOKEN }}
+                update-readme: false
