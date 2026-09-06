@@ -18,7 +18,7 @@ Make SukiSU great again!
 ## Star History
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/star-history/star-history-dark.svg">
-  <img alt="Star history" src="../assets/star-history/star-history-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReSukiSU/.github/raw/main/assets/star-history/star-history-dark.svg">
+  <img alt="Star history" src="https://github.com/ReSukiSU/.github/raw/main/assets/star-history/star-history-light.svg">
 </picture>
 
