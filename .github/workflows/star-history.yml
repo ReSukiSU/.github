@@ -16,5 +16,6 @@ jobs:
               uses: narayann7/star-history-action@v1.0.6
               with:
                 repos: 'ReSukiSU/ReSukiSU'
+                output-dir: 'profile/assets/star-history'
                 readme: 'profile/README.md'
                 token: ${{ secrets.GH_TOKEN }}
