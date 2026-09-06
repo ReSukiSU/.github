@@ -5,7 +5,7 @@
 # ReSukiSU
 
 [![Kernel License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-orange.svg?logo=gnu)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![Other part License：GPL v3](https://img.shields.io/github/license/ReSukiSU/ReSukiSU?logo=gnu)](/LICENSE)
+[![Other part License：GPL v3](https://img.shields.io/github/license/ReSukiSU/ReSukiSU?logo=gnu)](https://github.com/ReSukiSU/ReSukiSU/blob/main/LICENSE)
 
 [![Translation](https://hosted.weblate.org/widget/resukisu/svg-badge.svg)](https://hosted.weblate.org/engage/resukisu/)[![Pages](https://github.com/ReSukiSU/ReSukiSU.github.io/actions/workflows/main.yml/badge.svg)](https://resukisu.org)
 
