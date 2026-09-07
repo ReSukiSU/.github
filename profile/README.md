@@ -9,7 +9,7 @@
 
 [![Translation](https://hosted.weblate.org/widget/resukisu/svg-badge.svg)](https://hosted.weblate.org/engage/resukisu/)[![Pages](https://github.com/ReSukiSU/ReSukiSU.github.io/actions/workflows/main.yml/badge.svg)](https://resukisu.org)
 
-Make SukiSU great again!
+Make SukiSU Great Again!
 
 [Documentation](https://resukisu.org) | [Repository](https://github.com/ReSukiSU/ReSukiSU)
 
