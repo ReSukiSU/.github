@@ -4,6 +4,8 @@
 
 # ReSukiSU
 
+<a href="https://trendshift.io/repositories/117456?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-117456" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/117456/daily?language=Kotlin" alt="ReSukiSU%2FReSukiSU | Trendshift" width="250" height="55"/></a>
+
 [![Kernel License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-orange.svg?logo=gnu)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![Other part License：GPL v3](https://img.shields.io/github/license/ReSukiSU/ReSukiSU?logo=gnu)](https://github.com/ReSukiSU/ReSukiSU/blob/main/LICENSE)
 
